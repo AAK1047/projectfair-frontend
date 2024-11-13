@@ -1,1 +1,1 @@
-export const serverUrl= "https://projectfair-server-lmz9.onrender.com"
+export const serverUrl= "https://projectfair-server-kbca.onrender.com"
